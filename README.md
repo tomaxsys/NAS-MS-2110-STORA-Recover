@@ -1,6 +1,6 @@
 #                NAS MS-2110
- Como restaurar con los valores defabrica, sin perder los datos.
-
+ <strong>Como restaurar con los valores defabrica, sin perder los datos.</strong>
+<hr>
       El motivo de escribir esta guia:
   
           1)La guia pretende ser sobre todo mi ayuda memoria.
