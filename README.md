@@ -6,4 +6,8 @@
           1)La guia pretende ser sobre todo mi ayuda memoria.
           2)Esta basada en el metodo de soporte del producto. 
 
-   
+     Imprescindibles para llevar a cabo nuestro objetivo.
+
+         1)Conexion a Internet, los archivos del sistema se descargan.
+         2)Una licencia valida del producto.
+            
